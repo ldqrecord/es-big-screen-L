@@ -4,13 +4,14 @@ current_chapter: 1
 current_subtopic: 1.1
 status: in_progress
 completed_chapters: []
-last_updated: 2026-10-21 23:15:00
-learner_profile: 前端开发工程师 (Vue3 & 大屏开发薄弱)
+last_updated: 2026-10-26 22:28:00
+learner_profile: 前端开发工程师 (Vue3基础筑基中，采用大白话逐行导读与零门槛心智搭建)
 LEARNING_SYNC_ANCHOR_END -->
 
 # 大屏数据可视化与 Vue 3 进阶学习进度与实战笔记
 
 > **配套大纲**：参见 [`LEARNING_OUTLINE.md`](file:///g:/学习/工作/AI项目/大屏项目/es-big-screen/LEARNING_OUTLINE.md)  
+> **Vue 3 专项手册**：参见 [`VUE3_LEARNING_NOTES.md`](file:///g:/学习/工作/AI项目/大屏项目/es-big-screen/VUE3_LEARNING_NOTES.md)  
 > **多设备同步规范**：每次完成章节学习后，本文件自动更新笔记并推进看板。在其他电脑学习时，执行 `git pull` 即可由 AI 解析顶部状态锚点无缝接续。
 
 ---
